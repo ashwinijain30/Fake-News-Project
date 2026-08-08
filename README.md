@@ -5,7 +5,7 @@ A **Machine Learning-based Fake News Detection System** that classifies news art
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**
-[https://ashwini-fake-news-detector.streamlit.app/](https://ashwini-fake-news-detector.streamlit.app/)
+[https://fake-news-detection-system-ashwini.streamlit.app/](https://fake-news-detection-system-ashwini.streamlit.app/)
 
 ## 📌 Features
 
